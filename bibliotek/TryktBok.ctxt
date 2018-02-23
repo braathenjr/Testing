@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TryktBok
+comment0.text=\r\n\ TryktBok,\ a\ subclass\ of\ Bok.\r\n\r\n\ @author\ (Per\ Lauv\u00E5s)\r\n\ @version\ (1)\r\n
+comment1.params=
+comment1.target=TryktBok()
+comment2.params=isbn\ forfatter\ tittel\ forlag\ antallInne\ antallRegistrert\ antallSider
+comment2.target=TryktBok(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment3.params=antallSider
+comment3.target=void\ setAntallSider(int)
+comment4.params=
+comment4.target=int\ getAntallSider()
+numComments=5
